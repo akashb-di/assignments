@@ -1,10 +1,11 @@
 #!/usr/bin/env python3
 """
-Command-line tool to scan a folder and output a summary report.
+Folder Report - A CLI utility for directory analysis.
 - Takes a folder path as input
 - Scans all files in that folder (recursively)
 - Outputs: total files, total size, largest file, file types breakdown
 - Saves the report to a text file
+- Version: 1.0.0
 """
 
 import argparse
