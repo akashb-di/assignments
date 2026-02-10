@@ -1,0 +1,20 @@
+============================================================
+FOLDER SCAN REPORT
+============================================================
+Folder: /Users/akash.b/assignments/test_scan_me
+
+SUMMARY
+----------------------------------------
+Total files:  5
+Total size:   1022.00 B
+
+Largest file: big.bin (1000.00 B)
+  Path: /Users/akash.b/assignments/test_scan_me/big.bin
+
+FILE TYPES BREAKDOWN
+----------------------------------------
+  .bin                  count:      1  size: 1000.00 B
+  .csv                  count:      1  size: 5.00 B
+  .py                   count:      1  size: 5.00 B
+  .txt                  count:      2  size: 12.00 B
+============================================================
