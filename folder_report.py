@@ -1,10 +1,12 @@
 #!/usr/bin/env python3
 """
-Command-line tool to scan a folder and output a summary report.
+Folder Scanner Tool - Recursive directory scanning and reporting.
 - Takes a folder path as input
 - Scans all files in that folder (recursively)
 - Outputs: total files, total size, largest file, file types breakdown
+- Supports filtering by file extension (see filter_by_extension.py)
 - Saves the report to a text file
+- Author: Akash
 """
 
 import argparse
