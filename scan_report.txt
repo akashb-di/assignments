@@ -1,0 +1,16 @@
+==================================================
+        FOLDER SCAN REPORT
+==================================================
+Folder scanned : /Users/akash.b/assignments/test_folder
+Scan date      : 2026-02-10 10:00:39
+--------------------------------------------------
+Total files    : 5
+Total size     : 477 B
+Largest file   : readme.md (227 B)
+--------------------------------------------------
+File types breakdown:
+  .csv                 : 1 file(s)
+  .md                  : 1 file(s)
+  .py                  : 1 file(s)
+  .txt                 : 2 file(s)
+==================================================
